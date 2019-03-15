@@ -3,6 +3,7 @@
 export(TSN)
 export(calc_struct_weights)
 export(doublecentering)
+export(fixKernelMatrix)
 export(innerCCA)
 export(pCCA)
 export(pen_nipals)
