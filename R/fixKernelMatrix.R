@@ -6,11 +6,6 @@
 #'@param thr convergency thresshold (default = 1e-5)
 #'@param niter number of iterations (default = 1000)
 #'
-#'@example
-#'
-#'
-#'
-#'
 #'@export
 fixKernelMatrix <- function(P, thr = 1e-5,niter = 1000){
   conv <- 1

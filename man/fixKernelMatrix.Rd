@@ -16,6 +16,3 @@ fixKernelMatrix(P, thr = 1e-05, niter = 1000)
 \description{
 This functions calculates scales a similarity matrix P = P' such that P 1 = 1 and P'*1 = 1
 }
-\examples{
-
-}
